@@ -1,4 +1,4 @@
 Mam na imie Aleksander.
 
 
-dodaje kolejna Nowa linia to tego pliku.
+Zostala dodana nowa kolejna linia do tego pliku.
